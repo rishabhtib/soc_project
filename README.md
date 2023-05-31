@@ -1,4 +1,8 @@
-# SOC
+# SOC - Image Processing and Object Detection
+## Mentor :-
+    Prajyot Chakre
+    Chaitanya Sannake
+    Suyash
 
 ## Python
 
